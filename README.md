@@ -194,4 +194,4 @@ After running the build scripts, your repository directory might look like this:
 
 ## License
 
-This project is licensed under the [Apache License 2.0](./LICENSE) - See the LICENSE file for full details.
+This project is licensed under the [GNU General Public License v3.0](./LICENSE) - See the LICENSE file for full details.
