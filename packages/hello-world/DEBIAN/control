@@ -1,0 +1,6 @@
+Package: helloworld
+Version: 1.0.0
+Architecture: all
+Maintainer: Shoukaku07
+Description: Helloworld test package
+
